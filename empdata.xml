@@ -1,123 +1,94 @@
 <?xml version="1.0" encoding="UTF-8" ?>
   <employees>
     <data>
-      <name>James Bond</name>
-      <designation>Accountant</designation>
-      <salary>$170,750</salary>
-      <joining_date>2011/07/25</joining_date>
-      <office>Tokyo</office>
-      <extension>8422</extension>
+      <First_Name>Delmy</First_Name>
+      <Last_Name>Buton</Last_Name>
+      <Receivable>$61240</Receivable>
+      <Average_Days_Outstanding>175</Average_Days_Outstanding>
+      <Phone_Number>428-307-6386</Phone_Number>
     </data>
     <data>
-      <name>Brielle Williamson</name>
-      <designation>Integration Specialist</designation>
-      <salary>$372,000</salary>
-      <joining_date>2012/12/02</joining_date>
-      <office>New York</office>
-      <extension>4804</extension>
+      <First_Name>Kristopher</First_Name>
+      <Last_Name>Giguere</Last_Name>
+      <Receivable>$24414</Receivable>
+      <Average_Days_Outstanding>116</Average_Days_Outstanding>
+      <Phone_Number>475-114-4845</Phone_Number>
     </data>
     <data>
-      <name>Ashton Cox</name>
-      <designation>Junior Technical Author</designation>
-      <salary>$86,000</salary>
-      <joining_date>2009/01/12</joining_date>
-      <office>San Francisco</office>
-      <extension>1562</extension>
+      <First_Name>Sharlene</First_Name>
+      <Last_Name>Wolframe</Last_Name>
+      <Receivable>$12456</Receivable>
+      <Average_Days_Outstanding>54</Average_Days_Outstanding>
+      <Phone_Number>425-548-5613</Phone_Number>
     </data>
     <data>
-      <name>Airi Satou</name>
-      <designation>Accountant</designation>
-      <salary>$162,700</salary>
-      <joining_date>2008/11/28</joining_date>
-      <office>Tokyo</office>
-      <extension>5407</extension>
+      <First_Name>Stephen</First_Name>
+      <Last_Name>Tyler</Last_Name>
+      <Receivable>$125478</Receivable>
+      <Average_Days_Outstanding>5</Average_Days_Outstanding>
+      <Phone_Number>513-548-9769</Phone_Number>
     </data>
     <data>
-      <name>Caesar Vance</name>
-      <designation>Pre-Sales Support</designation>
-      <salary>$106,450</salary>
-      <joining_date>2011/12/12</joining_date>
-      <office>New York</office>
-      <extension>8330</extension>
+      <First_Name>Josh</First_Name>
+      <Last_Name>Groban</Last_Name>
+      <Receivable>$121566161</Receivable>
+      <Average_Days_Outstanding>100</Average_Days_Outstanding>
+      <Phone_Number>425-158-6485</Phone_Number>
     </data>
     <data>
-      <name>Shad Decker</name>
-      <designation>Regional Director</designation>
-      <salary>$183,000</salary>
-      <joining_date>2008/11/13</joining_date>
-      <office>Edinburgh</office>
-      <extension>6373</extension>
+      <First_Name>Don</First_Name>
+      <Last_Name>Omas</Last_Name>
+      <Receivable>$51</Receivable>
+      <Average_Days_Outstanding>2</Average_Days_Outstanding>
+      <Phone_Number>986-168-1555</Phone_Number>
     </data>
     <data>
-      <name>Cedric Kelly</name>
-      <designation>Senior Javascript Developer</designation>
-      <salary>$433,060</salary>
-      <joining_date>2012/03/29</joining_date>
-      <office>Edinburgh</office>
-      <extension>6224</extension>
+      <First_Name>Ron</First_Name>
+      <Last_Name>Gaard</Last_Name>
+      <Receivable>$1658</Receivable>
+      <Average_Days_Outstanding>23</Average_Days_Outstanding>
+      <Phone_Number>168-565-9122</Phone_Number>
     </data>
     <data>
-      <name>Haley Kennedy</name>
-      <designation>Senior Marketing Designer</designation>
-      <salary>$313,500</salary>
-      <joining_date>2012/12/18</joining_date>
-      <office>London</office>
-      <extension>3597</extension>
+      <First_Name>Molly</First_Name>
+      <Last_Name>Sun</Last_Name>
+      <Receivable>$516</Receivable>
+      <Average_Days_Outstanding>23</Average_Days_Outstanding>
+      <Phone_Number>981-574-9795</Phone_Number>
     </data>
     <data>
-      <name>Colleen Hurst</name>
-      <designation>Javascript Developer</designation>
-      <salary>$205,500</salary>
-      <joining_date>2009/09/15</joining_date>
-      <office>San Francisco</office>
-      <extension>2360</extension>
+      <First_Name>Danielle</First_Name>
+      <Last_Name>Summers</Last_Name>
+      <Receivable>$16889</Receivable>
+      <Average_Days_Outstanding>10</Average_Days_Outstanding>
+      <Phone_Number>797-416-6548</Phone_Number>
     </data>
     <data>
-      <name>Dai Rios</name>
-      <designation>Personnel Lead</designation>
-      <salary>$217,500</salary>
-      <joining_date>2012/09/26</joining_date>
-      <office>Edinburgh</office>
-      <extension>2290</extension>
+      <First_Name>Emily</First_Name>
+      <Last_Name>Roberts</Last_Name>
+      <Receivable>$100158</Receivable>
+      <Average_Days_Outstanding>81</Average_Days_Outstanding>
+      <Phone_Number>563-546-8796</Phone_Number>
     </data>
     <data>
-      <name>Herrod Chandler</name>
-      <designation>Sales Assistant</designation>
-      <salary>$137,500</salary>
-      <joining_date>2012/08/06</joining_date>
-      <office>San Francisco</office>
-      <extension>9608</extension>
+      <First_Name>Julia</First_Name>
+      <Last_Name>Manchild</Last_Name>
+      <Receivable>$29</Receivable>
+      <Average_Days_Outstanding>4</Average_Days_Outstanding>
+      <Phone_Number>428-598-5887</Phone_Number>
     </data>
     <data>
-      <name>Rhona Davidson</name>
-      <designation>Integration Specialist</designation>
-      <salary>$327,900</salary>
-      <joining_date>2010/10/14</joining_date>
-      <office>Tokyo</office>
-      <extension>6200</extension>
+     <First_Name>Dan</First_Name>
+      <Last_Name>Dapper</Last_Name>
+      <Receivable>$98155</Receivable>
+      <Average_Days_Outstanding>26</Average_Days_Outstanding>
+      <Phone_Number>442-555-9732</Phone_Number>
     </data>
     <data>
-      <name>Sonya Frost</name>
-      <designation>Software Engineer</designation>
-      <salary>$103,600</salary>
-      <joining_date>2008/12/13</joining_date>
-      <office>Edinburgh</office>
-      <extension>1667</extension>
-    </data>
-    <data>
-      <name>Jena Gaines</name>
-      <designation>Office Manager</designation>
-      <salary>$90,560</salary>
-      <joining_date>2008/12/19</joining_date>
-      <office>London</office>
-      <extension>3814</extension>
-    </data>
-    <data>
-      <name>Quinn Flynn</name>
-      <designation>Support Lead</designation>
-      <salary>$342,000</salary>
-      <joining_date>2013/03/03</joining_date>
-      <office>Edinburgh</office>
-      <extension>9497</extension>
+      <First_Name>Jonathan</First_Name>
+      <Last_Name>Rand</Last_Name>
+      <Receivable>$16584652</Receivable>
+      <Average_Days_Outstanding>179</Average_Days_Outstanding>
+      <Phone_Number>485-846-6185</Phone_Number>
     </data>
   </employees>
