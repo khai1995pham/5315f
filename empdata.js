@@ -90,6 +90,6 @@
       "Receivable": "$16584652",
       "Average Days Outstanding": "179",
       "Phone Number": "485-846-6185",
-    },
+    }
   ]
 }
